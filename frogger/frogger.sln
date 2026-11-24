@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37906.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frogger", "frogger\frogger.csproj", "{4E54BC07-35A9-452A-9EB4-972CAA71AE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E54BC07-35A9-452A-9EB4-972CAA71AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E54BC07-35A9-452A-9EB4-972CAA71AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E54BC07-35A9-452A-9EB4-972CAA71AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E54BC07-35A9-452A-9EB4-972CAA71AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A59065A-03F5-4640-A998-DA13E2311B9B}
+	EndGlobalSection
+EndGlobal

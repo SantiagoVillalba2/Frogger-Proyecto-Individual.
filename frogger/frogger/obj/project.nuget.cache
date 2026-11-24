@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqiB/YZ77+8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan\\source\\repos\\frogger\\frogger\\frogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\monogame.content.builder.task\\3.8.6.1\\monogame.content.builder.task.3.8.6.1.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\monogame.framework.native\\3.8.5\\monogame.framework.native.3.8.5.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\monogame.runtime.linux.vulkan\\3.8.5\\monogame.runtime.linux.vulkan.3.8.5.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\monogame.runtime.mac.vulkan\\3.8.5\\monogame.runtime.mac.vulkan.3.8.5.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\monogame.runtime.windows.vulkan\\3.8.5\\monogame.runtime.windows.vulkan.3.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}
